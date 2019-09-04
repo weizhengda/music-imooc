@@ -32,12 +32,6 @@
         "selectedIconPath": "images/music-actived.png"
       },
       {
-        "pagePath": "pages/blog/blog",
-        "text": "发现",
-        "iconPath": "images/blog.png",
-        "selectedIconPath": "images/blog-actived.png"
-      },
-      {
         "pagePath": "pages/profile/profile",
         "text": "我的",
         "iconPath": "images/profile.png",

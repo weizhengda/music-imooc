@@ -13,13 +13,13 @@
       <i class="iconfont icon-xiangyou"></i>
     </navigator>
   </view>
-  <view class="nav-item">
+  <!-- <view class="nav-item">
     <navigator class="content" hover-class="none" url="/pages/profile-bloghistory/profile-bloghistory">
       <i class="iconfont icon-shoucang"></i>
       <text class="text">我的发现</text>
       <i class="iconfont icon-xiangyou"></i>
     </navigator>
-  </view>
+  </view> -->
   <view class="nav-item">
     <view class="content" bind:tap="onTapQrCode">
       <i class="iconfont icon-weibiaoti--"></i>
