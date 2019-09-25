@@ -6,6 +6,7 @@
     "pages/demo/demo",
     "pages/musiclist/musiclist",
     "pages/player/player",
+    "pages/menu/content",
     "pages/blog-edit/blog-edit",
     "pages/blog-comment/blog-comment",
     "pages/profile-playhistory/profile-playhistory",

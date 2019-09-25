@@ -12,7 +12,7 @@ Component({
   observers: {
     ['playlist.playCount'](count) {
       this.setData({
-        _count: this._tranNumber(count, 2)
+        // _count: this._tranNumber(count, 2)
       })
     }
   },
@@ -30,7 +30,7 @@ Component({
   methods: {
     goToMusiclist() {
       wx.navigateTo({
-        url: `../../pages/musiclist/musiclist?playlistId=${this.properties.playlist.id}`,
+        // url: `../../pages/musiclist/musiclist?playlistId=${this.properties.playlist.id}`,
       })
     },
 

@@ -18,14 +18,30 @@ Page({
         url: 'http://p1.music.126.net/Yo-FjrJTQ9clkDkuUCTtUg==/109951164169441928.jpg',
       }
       ],
-    playlist: []
+    playlist: [
+      {name:'HTML/CSS'},
+      {name:'Javascript'},
+      {name:'Html5'},
+      {name:'Css3'},
+      {name:'Vue.js'},
+      {name:'React.js'},
+      {name:'Angular.js'},
+      {name:'Node.js'},
+      {name:'Jquery'},
+      {name:'Bootstrap'},
+      {name:'Sass/Less'},
+      {name:'Webapp'},
+      {name:'小程序'},
+      {name:'前端工具'},
+
+    ]
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function(options) {
-    this._getPlaylist()
+    // this._getPlaylist()
     this._getSwiper()
   },
 
