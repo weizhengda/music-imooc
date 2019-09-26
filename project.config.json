@@ -84,9 +84,16 @@
 					"scene": null
 				},
 				{
-					"id": 6,
+					"id": -1,
 					"name": "playlist",
 					"pathName": "pages/playlist/playlist",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 6,
+					"name": "home",
+					"pathName": "pages/home/home",
 					"query": "",
 					"scene": null
 				}

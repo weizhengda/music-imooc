@@ -29,8 +29,9 @@ Component({
    */
   methods: {
     goToMusiclist() {
+      console.log(this.properties.playlist)
       wx.navigateTo({
-        // url: `../../pages/musiclist/musiclist?playlistId=${this.properties.playlist.id}`,
+        url: `../../pages/menu/menu?id=${this.properties.playlist._id}`,
       })
     },
 

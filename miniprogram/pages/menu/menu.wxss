@@ -1,0 +1,4 @@
+/* pages/menu/menu.wxss */
+
+.content{padding:20rpx;}
+.name{margin-bottom:20rpx;}

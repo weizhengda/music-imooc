@@ -1,0 +1,5 @@
+<!--pages/menu/menu.wxml-->
+<view class="content">
+    <view class="name">{{menu.name}}</view>
+    <view class="introduce">{{menu.introduce}}</view>
+</view>

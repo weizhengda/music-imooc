@@ -5,6 +5,8 @@
     "pages/profile/profile",
     "pages/demo/demo",
     "pages/musiclist/musiclist",
+    "pages/menu/menu",
+    "pages/home/home",
     "pages/player/player",
     "pages/blog-edit/blog-edit",
     "pages/blog-comment/blog-comment",
