@@ -105,7 +105,7 @@ Page({
 
   _getMenuList(){
     db.collection('menu').get().then((res)=>{
-      console.log('res=',res)
+      console.log('res111=',res)
       if(res.data.length>0){
         this.setData({
           playlist: res.data

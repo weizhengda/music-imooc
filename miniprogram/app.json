@@ -1,12 +1,13 @@
 {
   "pages": [
+    "pages/home/home",
+    "pages/case/case",
     "pages/playlist/playlist",
     "pages/blog/blog",
     "pages/profile/profile",
     "pages/demo/demo",
     "pages/musiclist/musiclist",
     "pages/menu/menu",
-    "pages/home/home",
     "pages/player/player",
     "pages/blog-edit/blog-edit",
     "pages/blog-comment/blog-comment",
@@ -28,10 +29,22 @@
     "selectedColor": "#d43c43",
     "list": [
       {
-        "pagePath": "pages/playlist/playlist",
+        "pagePath": "pages/home/home",
         "text": "首页",
         "iconPath": "images/home.png",
         "selectedIconPath": "images/home-actived.png"
+      },
+      {
+        "pagePath": "pages/playlist/playlist",
+        "text": "文档",
+        "iconPath": "images/doc.png",
+        "selectedIconPath": "images/doc-actived.png"
+      },
+      {
+        "pagePath": "pages/case/case",
+        "text": "案例",
+        "iconPath": "images/case.png",
+        "selectedIconPath": "images/case-actived.png"
       },
       {
         "pagePath": "pages/profile/profile",
